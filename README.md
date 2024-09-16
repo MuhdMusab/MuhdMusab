@@ -2,7 +2,7 @@
 # Hey there! <img src="wave.gif" width="30px" height="30px" />
 <!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MuhdMusab.MuhdMusab&color=00cf00) -->
 
-My name is Mus'ab Mustaffa and I'm a Year 2 Computer Science Undergraduate. I'm from Singapore and currently studying at the National University of Singapore. You can find me on [LinkedIn](https://www.linkedin.com/in/musab-mustaffa).
+My name is Mus'ab Mustaffa and I'm a Year 4 Computer Science Undergraduate. I'm from Singapore and currently studying at the National University of Singapore. You can find me on [LinkedIn](https://www.linkedin.com/in/musab-mustaffa).
 
 ### Languages and Technologies
 
